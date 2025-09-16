@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx --env-file .env watch src/http/server.ts"
+    "dev": "tsx --env-file .env watch src/http/server.ts",
+    "seed": "tsx --env-file .env src/db/seed.ts"
   },
   "keywords": [],
   "author": "",
@@ -19,6 +20,7 @@
   },
   "dependencies": {
     "@paralleldrive/cuid2": "^2.2.2",
+    "dayjs": "^1.11.18",
     "drizzle-orm": "^0.44.5",
     "fastify": "^5.6.0",
     "postgres": "^3.4.7",
