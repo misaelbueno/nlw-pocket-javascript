@@ -6,6 +6,7 @@
 - Fastify
 - Docker
 - Drizzle
+- SQL
 - Zod
 - Biome
 - Postresql
