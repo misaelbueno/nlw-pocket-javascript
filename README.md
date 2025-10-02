@@ -1,4 +1,5 @@
-# NLW POCKET - JAVASCRIPT
+# NLW POCKET - JAVASCRIPT(back-end Node)
+- Desenvolvimento do back-end da aplicação de metas, feito acompanhando o evento NLW da Rocketseat.
 
 **TECNOLOGIAS:**
 - Typescript
